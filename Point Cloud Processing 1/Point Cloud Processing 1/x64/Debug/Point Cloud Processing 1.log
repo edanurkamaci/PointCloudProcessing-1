@@ -1,0 +1,10 @@
+﻿  DepthCamera.cpp
+  Main.cpp
+  PassThroughFilter.cpp
+  Point.cpp
+  PointCloud.cpp
+  PointCloudRecorder.cpp
+  RadiusOutlierFilter.cpp
+  Transform.cpp
+  Generating Code...
+  Point Cloud Processing 1.vcxproj -> C:\Users\kamac\OneDrive\Masaüstü\Point-Cloud-Processing\Point Cloud Processing - 1\POINT CLOUD PROCESS - 1\Point Cloud Processing 1\x64\Debug\Point Cloud Processing 1.exe

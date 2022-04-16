@@ -1,0 +1,11 @@
+﻿  DepthCamera.cpp
+  Main.cpp
+  PassThroughFilter.cpp
+  Point.cpp
+  PointCloud.cpp
+  PointCloudRecorder.cpp
+  RadiusOutlierFilter.cpp
+  Transform.cpp
+  Generating Code...
+  LINK : C:\Users\kamac\My Codes\Point Cloud Processing - 1\POINT CLOUD PROCESS - 1\Point Cloud Processing 1\Debug\Point Cloud Processing 1.exe not found or not built by the last incremental link; performing full link
+  Point Cloud Processing 1.vcxproj -> C:\Users\kamac\My Codes\Point Cloud Processing - 1\POINT CLOUD PROCESS - 1\Point Cloud Processing 1\Debug\Point Cloud Processing 1.exe
